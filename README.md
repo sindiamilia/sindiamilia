@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sindiamilia
 - 👀 I’m interested in game development, image processing, and Android app development.
-- 🌱 I’m currently learning libGDX.
+- 🌱 I’m currently learning libGDX and other Android related stuff.
 - 💞️ I’m looking to collaborate on whatever I am currently working on. 
 - 📫 How to reach me: https://keishinrei.code.blog/
 
